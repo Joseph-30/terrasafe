@@ -12,6 +12,7 @@ tags:
 
 ---
 ## Acknowledgements
+
 Thank you to the creators of the Adafruit and QMC5883LCompass libraries for providing robust sensor integration foundations for this project. Thank you to the Sensors Council for organizing the MYOSA Event!
 ---
 ## Overview
