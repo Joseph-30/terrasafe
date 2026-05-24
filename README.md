@@ -12,8 +12,7 @@ tags:
 
 ---
 ## Acknowledgements
-Thank you to the creators of the Adafruit and QMC5883LCompass libraries for providing robust sensor integration foundations for this project.Thank you sensors council for organising the MYOSA Event
-
+Thank you to the creators of the Adafruit and QMC5883LCompass libraries for providing robust sensor integration foundations for this project. Thank you to the Sensors Council for organizing the MYOSA Event!
 ---
 ## Overview
 The ESP32 9-DOF Breadcrumb Trail Navigator is a hardware and software solution that allows users to navigate and track their movements without relying on GPS signals. 
