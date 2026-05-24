@@ -34,7 +34,7 @@ The ESP32 9-DOF Breadcrumb Trail Navigator is a hardware and software solution t
 </p>
 
 <p align="center">
-<img src="Web_interface_image.png" width="800"><br/>
+<img src="web_interface_image.png" width="800"><br/>
 <i>The responsive, dark-mode web dashboard hosted on the ESP32</i>
 </p>
 
@@ -128,6 +128,6 @@ ArduinoJson
 ├─ index.ino
 ├─ esp32-9dof-cover.jpg
 ├─ web_interface_image.png
-├─ myosa_demo_terrasafe.mp4
+├─ myosa_demo_video.mp4
 ├─ myosa_presentation_video.mp4
 └─ myosa_presentation_video.pdf
