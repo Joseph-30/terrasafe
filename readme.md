@@ -29,7 +29,7 @@ The ESP32 9-DOF Breadcrumb Trail Navigator is a hardware and software solution t
 
 ### **Images**
 <p align="center">
-<img src="Prototype_image.jpg" width="800"><br/>
+<img src="esp32-9dof-cover.jpg" width="800"><br/>
 <i>The ESP32 Navigator device hardware setup</i>
 </p>
 
@@ -126,7 +126,7 @@ ArduinoJson
 /terrasafe
 ├─ readme.md
 ├─ index.ino
-├─ prototype_image.jpg
+├─ esp32-9dof-cover.jpg
 ├─ web_interface_image.png
 ├─ myosa_demo_terrasafe.mp4
 ├─ myosa_presentation_video.mp4
