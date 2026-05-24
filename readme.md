@@ -1,8 +1,6 @@
 ---
 publishDate: 2026-05-24T00:00:00Z
-title:" Bouynet - Terrasafe 
-A ESP32 9-DOF Breadcrumb Trail Navigator"
-
+title: "Bouynet - Terrasafe A ESP32 9-DOF Breadcrumb Trail Navigator"
 excerpt: An advanced, GPS-free dead-reckoning navigation system using a 9-DOF sensor array to track movement and guide users back to their origin.
 image: esp32-9dof-cover.jpg
 tags:
