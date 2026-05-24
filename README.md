@@ -28,12 +28,12 @@ The ESP32 9-DOF Breadcrumb Trail Navigator is a hardware and software solution t
 
 ### **Images**
 <p align="center">
-<img src="/assets/images/esp32-9dof/esp32-9dof-cover.jpg" width="800"><br/>
+<img src="Images/Prototype_image.jpg" width="800"><br/>
 <i>The ESP32 Navigator device hardware setup</i>
 </p>
 
 <p align="center">
-<img src="/assets/images/esp32-9dof/web-dashboard-preview.jpg" width="800"><br/>
+<img src="Images/Web_interface_image.png" width="800"><br/>
 <i>The responsive, dark-mode web dashboard hosted on the ESP32</i>
 </p>
 
