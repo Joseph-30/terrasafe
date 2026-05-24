@@ -65,7 +65,8 @@ Install the following libraries via the Arduino IDE Library Manager:
 1. **Clone the Repository:**
 ```bash
    git clone [https://github.com/yourusername/esp32-9dof-navigator.git](https://github.com/yourusername/esp32-9dof-navigator.git)
-1. **Open the Project:**
+```
+1. **Open the Project:** 
    Open the `.ino` file in the Arduino IDE (or PlatformIO).
 2. **Configure Settings:**
    * Open the code and locate `MAGNETIC_DECLINATION`. Update it for your specific geographic location (currently set for Thrissur, Kerala: `-0.72`).
