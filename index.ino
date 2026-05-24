@@ -27,6 +27,7 @@
 #include <Adafruit_BMP085.h>
 #include <QMC5883LCompass.h>
 
+
 // --- I2C Bus Configuration ---
 // For this version, we'll use the default I2C bus for all sensors
 // Note: QMC5883LCompass library doesn't support setWire() method
