@@ -12,7 +12,7 @@ tags:
 
 ---
 ## Acknowledgements
-Thank you to the creators of the Adafruit and QMC5883LCompass libraries for providing robust sensor integration foundations for this project.
+Thank you to the creators of the Adafruit and QMC5883LCompass libraries for providing robust sensor integration foundations for this project.Thank you sensors council for organising the MYOSA Event
 
 ---
 ## Overview
@@ -118,3 +118,17 @@ Adafruit GFX Library
 Adafruit Unified Sensor
 QMC5883LCompass (by mprograms)
 ArduinoJson
+```
+## File Structure (Optional)
+```
+/terrasafe
+├─ images/
+│   ├─ prototype_image.jpg
+│   └─ web_interface_image.png
+├─ demo/
+│   ├─ myosa_demo_terrasafe.mp4
+├─ pesentatjon_materials/
+│   ├─ myosa_presentation_video.pdf
+│   └─ myosa_presentation_video.mp4
+├─ readme.md
+├─ index.ino
