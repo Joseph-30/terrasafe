@@ -39,7 +39,7 @@ The ESP32 9-DOF Breadcrumb Trail Navigator is a hardware and software solution t
 
 ### **Videos**
 <video controls width="100%">
-<source src="Demo_video/myosa_demo_terrasafe.mp4" type="video/mp4">
+  <source src="/Demo_video/myosa_demo_terrasafe.mp4" type="video/mp4">
 </video>
 
 <video controls width="100%">
